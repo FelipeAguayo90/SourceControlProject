@@ -3,3 +3,27 @@
     margin: 0;
     border: 0;
 }
+
+body {
+    background: pink;
+}
+
+ul li {
+    display: inline;
+    text-align: center;
+    font-size: medium;
+    width: 80px;
+    margin: 20px 8px;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+nav {
+    width: 200px;
+    height: 20px;
+    margin: 20px auto;
+}
